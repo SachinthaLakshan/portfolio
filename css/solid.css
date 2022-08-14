@@ -25,3 +25,8 @@
     width: auto;
     z-index: 99999;
   }
+
+  .youtube{
+    
+      transform: translate3d(0px, 7px, 0px) scale(1) !important;
+  }
