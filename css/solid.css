@@ -30,3 +30,8 @@
     
       transform: translate3d(0px, 7px, 0px) scale(1) !important;
   }
+
+  .border-img{
+    border-radius: 10px;
+    border: 2px solid greenyellow ;
+  }
